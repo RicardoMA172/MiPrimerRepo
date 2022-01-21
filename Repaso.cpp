@@ -5,6 +5,7 @@ void calculadora();
 void gato();
 void creditos();
 //Añadir comentario
+//Nueva actualización
 const int lado = 3;
 char matriz[lado][lado];
 
