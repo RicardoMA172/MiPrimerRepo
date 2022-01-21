@@ -4,7 +4,7 @@
 void calculadora();
 void gato();
 void creditos();
-
+//Añadir comentario
 const int lado = 3;
 char matriz[lado][lado];
 
