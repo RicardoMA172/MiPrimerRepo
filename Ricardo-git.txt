@@ -1,0 +1,23 @@
+Primero, hacer repo en github
+en git bash (terminal de git) colocas:
+git clone (URL)
+
+Ver el estatus del código (modificaciones, archivos agregados, etc.)
+git status
+
+Añadir documentos (empaquetar documentos al nuevo cambio)
+git add (. <- Para decir que es todo / el nombre del archivo con la extensión (.pdf, .cpp, .img)) 
+git add Repaso.cpp
+
+Mandar un commit (cambio) localmente:
+git commit -m "Mensaje al usuario"
+-m <- indica message / mensaje
+
+Para subir al repositorio los cambios:
+git push
+*Recomendado usar cuando se tenga un avance del proyecto o al final del día*
+
+Para actulizar el repositorio con los cambios agenos
+git pull
+*Recomendado usar al inicio del día (antes de comenzar a trabajar)*
+**SOLO SE USA CUANDO SE ESTA TRABAJANDO EN GRUPOS**
